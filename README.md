@@ -8,7 +8,7 @@ The app is availabe in apkpure as well (link:): https://apkpure.com/offline-canc
 
 Direct APK download QR code from apkpure   
 
-<img src="/images/qr_dw.jpg" alt="OSTRFPD Architecture"/>   
+<img src="/images/qr_dw.png" alt="OSTRFPD Architecture"/>   
 
 
 
