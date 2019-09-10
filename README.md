@@ -12,7 +12,6 @@ The app is availabe in apkpure as well (link:): https://apkpure.com/offline-canc
 <img src="/images/screen-1.jpg" alt="OSTRFPD Architecture"/>   
 <img src="/images/screen-2.jpg" alt="OSTRFPD Architecture"/>   
 <img src="/images/screen-3.jpg" alt="OSTRFPD Architecture"/>   
-<img src="/images/screen-7.jpg" alt="OSTRFPD Architecture"/>  
 
 **The description of Offline Cancer Dictionary**   
 Offline Cancer Biology Dictionary v1.00 is a compact yet highly useful educational application that contains over 5000+ glossaries and terms relating to biology or cancer. The main aim of this application is to provide quick reference to word meanings of terms involved in cancer. The app contains collection of terms ranging from basic to highly professional words.
