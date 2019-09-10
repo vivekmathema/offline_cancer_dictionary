@@ -1,4 +1,4 @@
-# offline Cancer Dictionary (for android devices)   
+# Offline Cancer Dictionary (for android devices)   
  Offline Cancer Dictionary (For Android)- software APK included
  
 Intiially the program was hosted in Google play store but due to their complicated policies I was unable to host the app in Playstore.      
