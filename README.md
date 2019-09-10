@@ -12,9 +12,6 @@ The app is availabe in apkpure as well (link:): https://apkpure.com/offline-canc
 <img src="/images/screen-1.jpg" alt="OSTRFPD Architecture"/>   
 <img src="/images/screen-2.jpg" alt="OSTRFPD Architecture"/>   
 <img src="/images/screen-3.jpg" alt="OSTRFPD Architecture"/>   
-<img src="/images/screen-4.jpg" alt="OSTRFPD Architecture"/>   
-<img src="/images/screen-5.jpg" alt="OSTRFPD Architecture"/>   
-<img src="/images/screen-6.jpg" alt="OSTRFPD Architecture"/>   
 <img src="/images/screen-7.jpg" alt="OSTRFPD Architecture"/>  
 
 **The description of Offline Cancer Dictionary**   
